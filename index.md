@@ -8,3 +8,7 @@ MESSAGE
 ``` java
 System.out.println("Hello, world!");
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
